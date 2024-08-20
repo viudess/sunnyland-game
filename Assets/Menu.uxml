@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sunnyland/artwork/fundoMenu.jpg?fileID=2800000&amp;guid=5d4a9dc3a4b288c4ab20a375adc6d1ae&amp;type=3#fundoMenu&quot;); justify-content: center; align-self: auto; align-items: center;">
+        <ui:Label tabindex="-1" text="SunnyLand" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 32px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Assets/Fonts/Daydream.ttf?fileID=12800000&amp;guid=78310458a1640e34bba1c82ac60c3be7&amp;type=3#Daydream&quot;); color: rgb(0, 219, 4);" />
+        <ui:Button text="Iniciar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnFase" style="-unity-font: url(&quot;project://database/Assets/Fonts/Daydream.ttf?fileID=12800000&amp;guid=78310458a1640e34bba1c82ac60c3be7&amp;type=3#Daydream&quot;); -unity-font-definition: initial; background-color: rgb(60, 2, 52); color: rgb(254, 220, 141); margin-top: 15px;" />
+    </ui:VisualElement>
+</ui:UXML>
